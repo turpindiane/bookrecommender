@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "The Stationery Shop", 
+        "author" : "Marjan Kamali", 
+        "description" : "A poignant, heartfelt novel by the award-nominated author of Together Tea that explores loss, reconciliation, and the quirks of fate.",
+        "content_warnings" : "Death of a child, suicide attempt, mental health, miscarriage, abortion, and war",
+        "tags" : ["mood.reflective", "mood.tearjerker", "genre.historical", "genre.romance", "hype.bestseller"]
+    },
+    {
+        "title" : "Transcendent Kingdom", 
+        "author" : "Yaa Gyasi", 
+        "description" : "Yaa Gyasi's stunning follow-up to her acclaimed national best seller Homegoing is a powerful, raw, intimate, deeply layered novel about a Ghanaian family in Alabama.",
+        "content_warnings" : "Addiction, drug abuse, mental health, racism, death, suicide attempt",
+        "tags" : ["mood.reflective", "mood.tearjerker", "genre.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Sasha Masha", 
+        "author" : "Agnes Borinsky", 
+        "description" : "Transgender author Agnes Borinsky deftly explores gender identity and queer romance in this heart-wrenching debut novel.",
+        "content_warnings" : "Transphobia, homophobia",
+        "tags" : ["mood.reflective", "mood.tearjerker", "genre.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Bluest Eye", 
+        "author" : "Toni Morrison", 
+        "description" : "What its vivid evocation of the fear and loneliness at the heart of a child's yearning, and the tragedy of its fulfillment. The Bluest Eye remains one of Toni Morrison's most powerful, unforgettable novels- and a significant work of American fiction.",
+        "content_warnings" : "Racism, pedophilia, rape, incest, child abuse",
+        "tags" : ["mood.heavy", "mood.tearjerker", "genre.historical", "hype.bestseller"]
+    }
+]

@@ -15,14 +15,8 @@
   min-height: 80px;
   padding: 16px 24px;
   text-align: center;
-  font-size:calc(12px + 1.5vw);
+  font-size:calc(20px + 1.5vw);
 }
-/* .button:hover {
-  color: #fff;
-  background-color: rgb(220, 85, 85);
-  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
-  transform: translateY(-2px);
-} */
 .button-selected {
     color: #fff;
     cursor: pointer;
@@ -34,15 +28,13 @@
     min-height: 80px;
     padding: 16px 24px;
     text-align: center;
-    font-size:calc(12px + 1.5vw);
+    font-size:calc(20px + 1.5vw);
     border: 2px solid;
     border-radius: 15px;
 }
-/* .button-selected:hover {
-    color: #3B3B3B;
-    background-color: white;
-    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
-} */
 .quiz-question{
     color: rgb(220, 85, 85);
+}
+.recommendation{
+    color: white;
 }
