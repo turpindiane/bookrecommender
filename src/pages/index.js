@@ -1,7 +1,8 @@
 import * as React from "react";
-import Layout from "/components/layout";
-import Button from "/components/button";
-import * as Styles from "/components/styles.module.css";
+import Layout from "../components/layout";
+import Button from "../components/button";
+import * as Styles from "../components/styles.module.css";
+import { Link } from "gatsby";
 
 const none = "none";
 var selectedMood = none;
@@ -11,6 +12,7 @@ const mood = "moodButtons";
 const genre = "genreButtons";
 const hype = "hypeButtons";
 const bookData = require("/json/books.json");
+var recommendation;
 
 const IndexPage = () => {
   return (
@@ -18,12 +20,13 @@ const IndexPage = () => {
       <div id="welcome">
         <h1 className={Styles.heading}>Welcome!</h1>
         <div className={Styles.description}>
-          Share some preferences with me, and I'll recommend a book I loved. 🤍
+          Share some preferences with me, and I'll recommend a book I loved. 🖤
         </div>
         <br /> <br />
       </div>
       <div id="quiz">
-        <p className={Styles.quizQuestion}>Pick your mood: </p>
+        <div className={Styles.quizQuestion}>Pick your mood: </div>
+        <br />
         <div>
           <Button
             name="moodButtons"
@@ -32,7 +35,6 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
-          <span> </span>
           <Button
             name="moodButtons"
             value="reflective 🪞"
@@ -40,7 +42,6 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
-          <span> </span>
           <Button
             name="moodButtons"
             value="tearjerker 😢"
@@ -48,7 +49,6 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
-          <span> </span>
           <Button
             name="moodButtons"
             value="heavy 🪨"
@@ -56,7 +56,6 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
-          <span> </span>
           <Button
             name="moodButtons"
             value="slow burn 🔥"
@@ -64,7 +63,6 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
-          <span> </span>
           <Button
             name="moodButtons"
             value="action-packed 💥"
@@ -73,7 +71,12 @@ const IndexPage = () => {
             className={Styles.button}
           />
         </div>
-        <p className={Styles.quizQuestion}> Pick your genre: </p>
+        <br />
+        <div className={Styles.quizQuestion}>
+          {" "}
+          <br /> Pick your genre:{" "}
+        </div>
+        <br />
         <div>
           <Button
             name="genreButtons"
@@ -115,7 +118,11 @@ const IndexPage = () => {
             className={Styles.button}
           />
         </div>
-        <p className={Styles.quizQuestion}> Bestseller or hidden gem? </p>
+        <br />
+        <div className={Styles.quizQuestion}>
+          <br /> Bestseller or hidden gem?{" "}
+        </div>
+        <br />
         <div>
           <Button
             name="hypeButtons"
@@ -136,7 +143,31 @@ const IndexPage = () => {
       </div>
       <br />
       <br />
-      <div className={Styles.recommendation} id="recommendation"></div>
+      <div className={Styles.recommendationHeader} id="recommendationHeader">
+        <br />
+        You should check out...
+        <br />
+      </div>
+      <div className={Styles.recommendationBody} id="recommendationBody">
+        <br />
+        <div id="bookTitle" className={Styles.bookTitle}></div>
+        <br />
+        <div id="bookDescription"></div>
+        <div id="contentWarnings" className={Styles.contentWarnings}>
+          <br />{" "}
+          <i>
+            Literature often touches on very heavy topics. Use the button below
+            to view the content warnings, sourced from{" "}
+            <Link to="https://app.thestorygraph.com/">The Storygraph</Link>,
+            associated with this title.{" "}
+          </i>
+          <br />
+          <button onClick={toggleCWs} className={Styles.cwButton} id="cwButton">
+            view
+          </button>
+          <div id="cwBody"></div>
+        </div>
+      </div>
       <br />
       <br />
     </Layout>
@@ -202,6 +233,7 @@ function buttonPressed(e) {
   }
 
   if (selectionsComplete()) {
+    hideCWs();
     generateRecommendation();
   }
 }
@@ -218,21 +250,58 @@ function selectionsComplete() {
 }
 
 function generateRecommendation() {
-  const selectedTags = [selectedGenre, selectedMood, selectedHype];
+  var selectedTags = [selectedGenre, selectedMood, selectedHype];
 
-  const filteredBooks = bookData.filter((book) =>
+  var filteredBooks = bookData.filter((book) =>
     selectedTags.every((t) => book.tags.includes(t))
   );
 
-  var recommendation =
+  if (filteredBooks.length === 0) {
+    displayRecNotFound();
+    return;
+  }
+
+  recommendation =
     filteredBooks[Math.floor(Math.random() * filteredBooks.length)];
 
-  console.log(filteredBooks);
-  console.log(recommendation);
+  var titleDiv = document.getElementById("bookTitle");
+  var descriptionDiv = document.getElementById("bookDescription");
+  var recHeaderDiv = document.getElementById("recommendationHeader");
+  var recBodyDiv = document.getElementById("recommendationBody");
 
-  document.getElementById("recommendation").innerHTML =
-    "You should check out... <br/>" +
+  titleDiv.innerHTML =
+    "<b><i>" +
     recommendation.title +
-    " by " +
-    recommendation.author;
+    "</i> by " +
+    recommendation.author +
+    "</b>";
+  descriptionDiv.innerHTML = recommendation.description;
+  recHeaderDiv.style.display = "block";
+  recBodyDiv.style.display = "block";
+  titleDiv.style.display = "block";
+  descriptionDiv.style.display = "block";
+}
+
+function toggleCWs() {
+  var body = document.getElementById("cwBody");
+  var button = document.getElementById("cwButton");
+  if (body.style.display === "block") {
+    body.style.display = "none";
+    button.innerHTML = "view";
+  } else {
+    body.innerHTML = recommendation.content_warnings;
+    body.style.display = "block";
+    button.innerHTML = "hide";
+  }
+}
+
+function hideCWs() {
+  document.getElementById("cwBody").style.display = "none";
+  document.getElementById("cwButton").innerHTML = "view";
+}
+
+function displayRecNotFound() {
+  document.getElementById("recommendationHeader").innerHTML =
+    "<br/>I'm sorry. A recommendation can not be generated.";
+  document.getElementById("recommendationHeader").display = "block";
 }

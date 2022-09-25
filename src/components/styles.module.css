@@ -1,0 +1,82 @@
+.heading{
+    color: rgb(220, 85, 85);
+}
+.description{
+    color: rgb(34, 34, 34);
+}
+.button {
+  background-color: white;
+  border: 2px solid;
+  border-radius: 15px;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  line-height: normal;
+  min-height: 80px;
+  padding: 16px 24px;
+  text-align: center;
+  font-size:calc(20px + 1.5vw);
+}
+.button-selected {
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(220, 85, 85);
+    display: inline-block;
+    line-height: normal;
+    min-height: 80px;
+    padding: 16px 24px;
+    text-align: center;
+    font-size:calc(20px + 1.5vw);
+    border: 2px solid;
+    border-radius: 15px;
+}
+.quiz-question{
+    color: rgb(220, 85, 85);
+    font-weight: bold;
+    width: 100%;
+    clear: both;
+}
+.recommendation-header{
+    color: rgb(34, 34, 34);
+    clear: both;
+    font-weight: bold;
+    display: none;
+}
+.recommendation-body{
+    color: rgb(34, 34, 34);
+    display: none;
+}
+.book-title{
+    color: rgb(220, 85, 85);
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.nav-link-item {
+    padding-right: 2rem;
+}
+.nav-link-text {
+    color: black;
+}
+.nav-image{
+    max-width: 50px;
+    max-height: 50px
+}
+.content-warnings{
+    font-size:calc(20px + 1vw);
+    color:#4d4d4d;
+}
+.cw-button{
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(220, 85, 85);
+    display: inline-block;
+    line-height: normal;
+    min-height: 20px;
+    padding: 16px 24px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px;
+}

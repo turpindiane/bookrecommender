@@ -26,5 +26,33 @@
         "description" : "What its vivid evocation of the fear and loneliness at the heart of a child's yearning, and the tragedy of its fulfillment. The Bluest Eye remains one of Toni Morrison's most powerful, unforgettable novels- and a significant work of American fiction.",
         "content_warnings" : "Racism, pedophilia, rape, incest, child abuse",
         "tags" : ["mood.heavy", "mood.tearjerker", "genre.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The House of the Spirits", 
+        "author" : "Isabel Allende", 
+        "description" : "One of the most important novels of the twentieth century, The House of the Spirits is an enthralling epic that spans decades and lives, weaving the personal and the political into a universal story of love, magic, and fate.",
+        "content_warnings" : "Torture, rape, sexual assault, abortion, domestic abuse, death",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "genre.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Interior Chinatown", 
+        "author" : "Charles Yu", 
+        "description" : "From the infinitely inventive author of How to Live Safely in a Science Fictional Universe comes a deeply personal novel about race, pop culture, immigration, assimilation, and escaping the roles we are forced to play.",
+        "content_warnings" : "Racism, slurs, and violence",
+        "tags" : ["mood.reflective", "mood.funny", "mood.actionpacked", "genre.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Nightcrawling", 
+        "author" : "Leila Mottley", 
+        "description" : "A dazzling, unforgettable novel about a young black woman who walks the streets of Oakland and stumbles headlong into the failure of its justice system—a debut that announces a blazingly original voice.",
+        "content_warnings" : "Police brutality, sexual violence, sexual assault",
+        "tags" : ["mood.heavy", "mood.tearjerker", "genre.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Her Body and Other Parties", 
+        "author" : "Carmen Maria Machado", 
+        "description" : "Earthy and otherworldly, antic and sexy, queer and caustic, comic and deadly serious, Her Body and Other Parties swings from horrific violence to the most exquisite sentiment. In their explosive originality, these stories enlarge the possibilities of contemporary fiction.",
+        "content_warnings" : "Sexual content, eating disorders, and body horror",
+        "tags" : ["mood.heavy", "genre.contemporary", "genre.mystery", "genre.shortstories", "hype.bestseller"]
     }
 ]
