@@ -83,3 +83,12 @@
     border: 2px solid;
     border-radius: 15px;
 }
+.instructions{
+    color: rgb(34, 34, 34);
+    display: none;
+    font-size:calc(12px + 1vw);
+}
+.credit-text{
+    color: rgb(34, 34, 34);
+    font-size:calc(15px + 1vw);
+}

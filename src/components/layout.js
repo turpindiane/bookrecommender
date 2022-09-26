@@ -19,6 +19,7 @@ export default function Layout({ children }) {
                 className={navImage}
                 alt="A blue and green home button"
                 src="../images/home-button.png"
+                placeholder="Home"
               />
             </Link>
           </li>
@@ -28,6 +29,7 @@ export default function Layout({ children }) {
                 className={navImage}
                 alt="A blue and green heart button"
                 src="../images/love.png"
+                placeholder="Credit"
               />
             </Link>
           </li>
@@ -37,6 +39,7 @@ export default function Layout({ children }) {
                 className={navImage}
                 alt="A purple image of the Github cat icon"
                 src="../images/github.png"
+                placeholder="GitHub Repo"
               />
             </Link>
           </li>

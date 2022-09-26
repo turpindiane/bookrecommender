@@ -2,7 +2,6 @@ import * as React from "react";
 import Layout from "../components/layout";
 import Button from "../components/button";
 import * as Styles from "../components/styles.module.css";
-import { Link } from "gatsby";
 
 const none = "none";
 var selectedMood = none;
@@ -141,15 +140,23 @@ const IndexPage = () => {
           <br />{" "}
           <i>
             Literature often touches on very heavy topics. Use the button below
-            to view the content warnings, sourced from{" "}
-            <Link to="https://app.thestorygraph.com/">The Storygraph</Link>,
-            associated with this title.{" "}
+            to view a summary of the content warnings, sourced from{" "}
+            <a href="https://app.thestorygraph.com/" id="storyGraphLink">
+              The Storygraph
+            </a>
+            , associated with this title.{" "}
           </i>
           <br />
           <button onClick={toggleCWs} className={Styles.cwButton} id="cwButton">
             view
           </button>
           <div id="cwBody"></div>
+        </div>
+        <div id="instructions" className={Styles.instructions}>
+          <br />
+          <br />
+          Want another recommendation? Update your selections to generate a new
+          book!
         </div>
       </div>
       <br />
@@ -251,7 +258,10 @@ function generateRecommendation() {
   var descriptionDiv = document.getElementById("bookDescription");
   var recHeaderDiv = document.getElementById("recommendationHeader");
   var recBodyDiv = document.getElementById("recommendationBody");
+  var instructionsDiv = document.getElementById("instructions");
+  var linkDiv = document.getElementById("storyGraphLink");
 
+  linkDiv.href = recommendation.link;
   titleDiv.innerHTML =
     "<b><i>" +
     recommendation.title +
@@ -263,6 +273,8 @@ function generateRecommendation() {
   recBodyDiv.style.display = "block";
   titleDiv.style.display = "block";
   descriptionDiv.style.display = "block";
+  instructionsDiv.style.display = "block";
+  recBodyDiv.scrollIntoView();
 }
 
 function toggleCWs() {

@@ -9,5 +9,9 @@ html {
     scroll-behavior: smooth;
 }
 h1 {
-    font-size:calc(30px + 10vw);
+    font-size:calc(30px + 7vw);
+}
+h2 {
+    font-size:calc(15px + 1vw);
+    color: rgb(220, 85, 85);
 }
