@@ -4,55 +4,482 @@
         "author" : "Marjan Kamali", 
         "description" : "A poignant, heartfelt novel by the award-nominated author of Together Tea that explores loss, reconciliation, and the quirks of fate.",
         "content_warnings" : "Death of a child, suicide attempt, mental health, miscarriage, abortion, and war",
-        "tags" : ["mood.reflective", "mood.tearjerker", "genre.historical", "genre.romance", "hype.bestseller"]
+        "tags" : ["mood.reflective", "mood.tearjerker", "setting.historical", "hype.bestseller"]
     },
     {
         "title" : "Transcendent Kingdom", 
         "author" : "Yaa Gyasi", 
         "description" : "Yaa Gyasi's stunning follow-up to her acclaimed national best seller Homegoing is a powerful, raw, intimate, deeply layered novel about a Ghanaian family in Alabama.",
         "content_warnings" : "Addiction, drug abuse, mental health, racism, death, suicide attempt",
-        "tags" : ["mood.reflective", "mood.tearjerker", "genre.contemporary", "hype.bestseller"]
+        "tags" : ["mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
     },
     {
         "title" : "Sasha Masha", 
         "author" : "Agnes Borinsky", 
-        "description" : "Transgender author Agnes Borinsky deftly explores gender identity and queer romance in this heart-wrenching debut novel.",
+        "description" : "Alex feels like he is in the wrong body. His skin feels strange against his bones. And then comes Tracy, who thinks he's adorably awkward, who wants to kiss him, who makes him feel like a Real Boy. But it is not quite enough. Something is missing. As Alex grapples with his identity, he finds himself trying on dresses and swiping on lipstick in the quiet of his bedroom. He meets Andre, a gay boy who is beautiful and unafraid to be who he is. Slowly, Alex begins to realize: maybe his name isn't Alex at all. Maybe it's Sasha Masha.Transgender author Agnes Borinsky deftly explores gender identity and queer romance in this heart-wrenching debut novel.",
         "content_warnings" : "Transphobia, homophobia",
-        "tags" : ["mood.reflective", "mood.tearjerker", "genre.contemporary", "hype.hiddengem"]
+        "tags" : ["mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.hiddengem"]
     },
     {
         "title" : "The Bluest Eye", 
         "author" : "Toni Morrison", 
         "description" : "What its vivid evocation of the fear and loneliness at the heart of a child's yearning, and the tragedy of its fulfillment. The Bluest Eye remains one of Toni Morrison's most powerful, unforgettable novels- and a significant work of American fiction.",
         "content_warnings" : "Racism, pedophilia, rape, incest, child abuse",
-        "tags" : ["mood.heavy", "mood.tearjerker", "genre.historical", "hype.bestseller"]
+        "tags" : ["mood.heavy", "mood.tearjerker", "setting.historical", "hype.bestseller"]
     },
     {
         "title" : "The House of the Spirits", 
         "author" : "Isabel Allende", 
         "description" : "One of the most important novels of the twentieth century, The House of the Spirits is an enthralling epic that spans decades and lives, weaving the personal and the political into a universal story of love, magic, and fate.",
         "content_warnings" : "Torture, rape, sexual assault, abortion, domestic abuse, death",
-        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "genre.historical", "hype.bestseller"]
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "setting.historical", "hype.bestseller"]
     },
     {
         "title" : "Interior Chinatown", 
         "author" : "Charles Yu", 
         "description" : "From the infinitely inventive author of How to Live Safely in a Science Fictional Universe comes a deeply personal novel about race, pop culture, immigration, assimilation, and escaping the roles we are forced to play.",
         "content_warnings" : "Racism, slurs, and violence",
-        "tags" : ["mood.reflective", "mood.funny", "mood.actionpacked", "genre.contemporary", "hype.bestseller"]
+        "tags" : ["mood.reflective", "mood.funny", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
     },
     {
         "title" : "Nightcrawling", 
         "author" : "Leila Mottley", 
         "description" : "A dazzling, unforgettable novel about a young black woman who walks the streets of Oakland and stumbles headlong into the failure of its justice system—a debut that announces a blazingly original voice.",
         "content_warnings" : "Police brutality, sexual violence, sexual assault",
-        "tags" : ["mood.heavy", "mood.tearjerker", "genre.contemporary", "hype.bestseller"]
+        "tags" : ["mood.heavy", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
     },
     {
         "title" : "Her Body and Other Parties", 
         "author" : "Carmen Maria Machado", 
         "description" : "Earthy and otherworldly, antic and sexy, queer and caustic, comic and deadly serious, Her Body and Other Parties swings from horrific violence to the most exquisite sentiment. In their explosive originality, these stories enlarge the possibilities of contemporary fiction.",
         "content_warnings" : "Sexual content, eating disorders, and body horror",
-        "tags" : ["mood.heavy", "genre.contemporary", "genre.mystery", "genre.shortstories", "hype.bestseller"]
+        "tags" : ["mood.heavy", "setting.contemporary", "mood.spooky", "hype.bestseller"]
+    },
+    {
+        "title" : "Against the Loveless World", 
+        "author" : "Susan Abulhawa", 
+        "description" : "Written with Susan Abulhawa’s distinctive “richly detailed, beautiful, and resonant” (Publishers Weekly) prose, this powerful novel presents a searing, darkly funny, and wholly unique portrait of a Palestinian woman who refuses to be a victim.",
+        "content_warnings" : "Sexual violence, sexual assault, rape, abortion, war, and torture",
+        "tags" : ["mood.heavy", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Midnight Robber", 
+        "author" : "Nalo Hopkinson", 
+        "description" : "It's Carnival time, and the Carribean-colonized planet of Toussaint is celebrating with music, dance and pageantry. Masked 'Midnight Robbers' waylay revelers with brandished weapons and spellbinding words. But to young Tan-Tan, the Robber Queen is simply a favourite costume to wear at the festival--until her power-corrupted father commits an unforgivable crime.",
+        "content_warnings" : "Incest, child abuse, rape, pedophilia, and physical abuse",
+        "tags" : ["mood.heavy", "mood.actionpacked", "mood.spooky", "hype.hiddengem"]
+    },    
+    {
+        "title" : "Your House Will Pay", 
+        "author" : "Steph Cha", 
+        "description" : "A powerful and taut novel about racial tensions in Los Angeles, following two families--one Korean-American, one African-American--grappling with the effects of a decades-old crime",
+        "content_warnings" : "Murder, gun violence, racism, police brutality, and death",
+        "tags" : ["mood.heavy", "mood.actionpacked", "setting.contemporary", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Nickel Boys", 
+        "author" : "Colson Whitehead", 
+        "description" : "In this Pulitzer Prize-winning, New York Times bestselling follow-up to The Underground Railroad, Colson Whitehead brilliantly dramatizes another strand of American history through the story of two boys unjustly sentenced to a hellish reform school in Jim Crow-era Florida.",
+        "content_warnings" : "Racism, child abuse, physical abuse, and sexual assault",
+        "tags" : ["mood.heavy", "mood.tearjerker", "setting.contemporary", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The Sentence", 
+        "author" : "Louise Erdrich", 
+        "description" : "In this stunning and timely novel, Pulitzer Prize and National Book Award–winning author Louise Erdrich creates a wickedly funny ghost story, a tale of passion, of a complex marriage, and of a woman's relentless errors.",
+        "content_warnings" : "Police brutality, racism, cultural appropriation, death, medical content, and addiction",
+        "tags" : ["mood.reflective", "setting.contemporary", "mood.spooky", "hype.bestseller"]
+    },
+    {
+        "title" : "The Love Songs of W.E.B. Du Bois", 
+        "author" : "Honorée Fanonne Jeffers", 
+        "description" : "The 2020 NAACP Image Award-winning poet makes her fiction debut with this National Book Award-longlisted, magisterial epic—an intimate yet sweeping novel with all the luminescence and force of Homegoing; Sing, Unburied, Sing; and The Water Dancer—that chronicles the journey of one American family, from the centuries of the colonial slave trade through the Civil War to our own tumultuous era.",
+        "content_warnings" : "Racism, slavery, drug abuse, rape, and abuse of a child",
+        "tags" : ["mood.reflective", "mood.heavy", "mood.slowburn", "setting.contemporary", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "A Long Petal of the Sea", 
+        "author" : "Isabel Allende", 
+        "description" : "From the author of The House of the Spirits, this epic novel spanning decades and crossing continents follows two young people as they flee the aftermath of the Spanish Civil War in search of a place to call home.",
+        "content_warnings" : "War, violence, and death",
+        "tags" : ["mood.heavy", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Homegoing", 
+        "author" : "Yaa Gyasi", 
+        "description" : "One of Oprah's Best Books of the Year and a PEN/Hemingway award winner, Homegoing follows the parallel paths of these sisters and their descendants through eight generations: from the Gold Coast to the plantations of Mississippi, from the American Civil War to Jazz Age Harlem. Yaa Gyasi's extraordinary novel illuminates slavery's troubled legacy both for those who were taken and those who stayed--and shows how the memory of captivity has been inscribed on the soul of our nation.",
+        "content_warnings" : "Slavery, racism, rape, and drug abuse",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "setting.contemporary", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Ring Shout", 
+        "author" : "P. Djèlí Clark", 
+        "description" : "Nebula, Locus, and Alex Award-winner P. Djèlí Clark returns with Ring Shout, a dark fantasy historical novella that gives a supernatural twist to the Ku Klux Klan's reign of terror.",
+        "content_warnings" : "Racism, body horror, and gore",
+        "tags" : ["mood.heavy", "mood.actionpacked", "mood.spooky", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "In the Time of the Butterflies", 
+        "author" : "Julia Alvarez", 
+        "description" : "It is November 25, 1960, and three beautiful sisters have been found near their wrecked Jeep at the bottom of a 150-foot cliff on the north coast of the Dominican Republic. The official state newspaper reports their deaths as accidental. It does not mention that a fourth sister lives. Nor does it explain that the sisters were among the leading opponents of Gen. Rafael Leónidas Trujillo’s dictatorship. It doesn’t have to. Everybody knows of Las Mariposas--the Butterflies. In this extraordinary novel, the voices of all four sisters--Minerva, Patria, María Teresa, and the survivor, Dedé--speak across the decades to tell their own stories, from secret crushes to gunrunning, and to describe the everyday horrors of life under Trujillo’s rule. Through the art and magic of Julia Alvarez’s imagination, the martyred Butterflies live again in this novel of courage and love, and the human costs of political oppression.",
+        "content_warnings" : "Violence, murder, death, miscarriage, and adult/minor relationship",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },    
+    {
+        "title" : "In the Midst of Winter", 
+        "author" : "Isabel Allende", 
+        "description" : "Isabel Allende returns with a sweeping novel about three very different people who are brought together in a mesmerizing story that journeys from present-day Brooklyn to Guatemala in the recent past to 1970s Chile and Brazil.",
+        "content_warnings" : "Murder, alcoholism, violence, domestic abuse, and death of a child",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker","setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Animal Farm", 
+        "author" : "George Orwell", 
+        "description" : "George Orwell's timeless and timely allegorical novel—a scathing satire on a downtrodden society’s blind march towards totalitarianism.",
+        "content_warnings" : "Animal death and animal cruelty",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Where the Wild Ladies Are", 
+        "author" : "Matsuda Aoko", 
+        "description" : "Witty, inventive, and profound, Where the Wild Ladies Are is a contemporary feminist retelling of traditional ghost stories by one of Japan’s most exciting writers.",
+        "content_warnings" : "Death, death of a parent, suicide, and domestic abuse",
+        "tags" : ["mood.funny", "mood.spooky", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Brown Girl in the Ring", 
+        "author" : "Nalo Hopkinson", 
+        "description" : "In this impressive debut from award-winning speculative fiction author Nalo Hopkinson, a young woman must solve the tragic mystery surrounding her family and bargain with the gods to save her city and herself.",
+        "content_warnings" : "Violence, body horror, torture, and domestic abuse",
+        "tags" : ["mood.heavy", "mood.actionpacked", "setting.contemporary", "mood.spooky", "hype.hiddengem"]
+    },
+    {
+        "title" : "My Sister, the Serial Killer", 
+        "author" : "Oyinkan Braithwaite", 
+        "description" : "My Sister, the Serial Killer is a blackly comic novel about how blood is thicker - and more difficult to get out of the carpet - than water. When Korede's dinner is interrupted one night by a distress call from her sister, Ayoola, she knows what's expected of her: bleach, rubber gloves, nerves of steel and a strong stomach. This'll be the third boyfriend Ayoola's dispatched in, quote, self-defence and the third mess that her lethal little sibling has left Korede to clear away. She should probably go to the police for the good of the menfolk of Nigeria, but she loves her sister and, as they say, family always comes first. Until, that is, Ayoola starts dating the doctor where Korede works as a nurse. Korede's long been in love with him, and isn't prepared to see him wind up with a knife in his back: but to save one would mean sacrificing the other...",
+        "content_warnings" : "Murder, child abuse, and domestic abuse",
+        "tags" : ["mood.heavy", "mood.actionpacked", "mood.funny", "mood.spooky", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Giovanni's Room", 
+        "author" : "James Baldwin", 
+        "description" : "Set among the bohemian bars and nightclubs of 1950s Paris, this groundbreaking novel about love and the fear of love is a book that belongs in the top rank of fiction",
+        "content_warnings" : "Homophobia, toxic relationships, murder, and suicidal thoughts",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Godshot", 
+        "author" : "Chelsea Bieker", 
+        "description" : "Possessed of an unstoppable plot and a brilliantly soulful voice, Godshot is a book of grit and humor and heart, a debut novel about female friendship and resilience, mother-loss and motherhood, and seeking salvation in unexpected places. It introduces a writer who gives Flannery O’Connor’s Gothic parables a Californian twist and who emerges with a miracle that is all her own.",
+        "content_warnings" : "Rape, incest, alcoholism, suicide, and pregnancy",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Year of the Witching", 
+        "author" : "Alexis Henderson", 
+        "description" : "A young woman living in a rigid, puritanical society discovers dark powers within herself in this stunning, feminist fantasy debut.",
+        "content_warnings" : "Blood, death, religious bigotry, pedophilia, and rape",
+        "tags" : ["mood.heavy", "mood.actionpacked", "setting.contemporary", "mood.spooky", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Chosen and the Beautiful", 
+        "author" : "Nghi Vo", 
+        "description" : "Nghi Vo's debut novel The Chosen and the Beautiful reinvents this classic of the American canon, The Great Gatsby, as a coming-of-age story full of magic, mystery, and glittering excess, and introduces a major new literary voice.",
+        "content_warnings" : "Racism, death, and sexual content",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.slowburn", "setting.historical", "mood.spooky", "hype.hiddengem"]
+    },
+    {
+        "title" : "Gods of Jade and Shadow", 
+        "author" : "Silvia Moreno-Garcia", 
+        "description" : "The Mayan god of death sends a young woman on a harrowing, life-changing journey in this one-of-a-kind fairy tale inspired by Mexican folklore.",
+        "content_warnings" : "Suicide, blood, and death",
+        "tags" : ["mood.actionpacked", "setting.historical", "mood.spooky", "hype.bestseller"]
+    },
+    {
+        "title" : "Cantoras", 
+        "author" : "Carolina De Robertis",
+        "description" : "From the highly acclaimed, award-winning author of The Gods of Tango, a revolutionary new novel about five wildly different women who, in the midst of the Uruguayan dictatorship, find one another as lovers, friends, and ultimately, family.",
+        "content_warnings" : "Suicide, homophobia, forced institutionalization, rape, sexual assault, and adult/minor relationship",
+        "tags" : ["mood.slowburn", "mood.tearjerker", "mood.reflective", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Everything I Never Told You", 
+        "author" : "Celeste Ng", 
+        "description" : "A profoundly moving story of family, secrets, and longing, Everything I Never Told You is both a gripping page-turner and a sensitive family portrait, uncovering the ways in which mothers and daughters, fathers and sons, and husbands and wives struggle, all their lives, to understand one another.",
+        "content_warnings" : "Racism, death of a child, suicide, infidelity, and racial slurs",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Infinite Country", 
+        "author" : "Patricia Engel", 
+        "description" : "For readers of Valeria Luiselli and Edwidge Danticat, an urgent and lyrical novel about a Colombian family fractured by deportation, offering an intimate perspective on an experience that so many have endured--and are enduring right now.",
+        "content_warnings" : "Animal cruelty, rape, sexual assault, alcoholism, violence, and racism",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.slowburn", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Mountains Sing", 
+        "author" : "Nguyễn Phan Quế Mai", 
+        "description" : "Vivid, gripping, and steeped in the language and traditions of Việt Nam, The Mountains Sing brings to life the human costs of this conflict from the point of view of the Vietnamese people themselves, while showing us the true power of kindness and hope. This is celebrated Vietnamese poet Nguyễn Phan Quế Mai’s first novel in English.",
+        "content_warnings" : "Violence, death, war, rape, abortion, and alcoholism",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "setting.historical", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Memorial", 
+        "author" : "Bryan Washington", 
+        "description" : "A funny and profound story about family in all its strange forms, joyful and hard-won vulnerability, becoming who you're supposed to be, and the limits of love.",
+        "content_warnings" : "Death of parent, cancer, sexual content, homophobia, alcoholism, and racism",
+        "tags" : ["mood.reflective", "mood.heavy", "mood.slowburn", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Detransition, Baby", 
+        "author" : "Torrey Peters", 
+        "description" : "An unforgettable portrait of three women, trans and cis, who wrestle with questions of motherhood and family making. This provocative debut is about what happens at the emotional, messy, vulnerable corners of womanhood that platitudes and good intentions can't reach. Torrey Peters brilliantly and fearlessly navigates the most dangerous taboos around gender, sex, and relationships, gifting us a thrillingly original, witty, and deeply moving novel.",
+        "content_warnings" : "Transphobia, sexual content, miscarriage, abortion, and suicide",
+        "tags" : ["mood.heavy", "mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Ghosts We Keep", 
+        "author" : "Mason Deaver", 
+        "description" : "Perfect for fans of Adam Silvera and Becky Albertalli, this book will rip your heart out before showing you how to heal from tragedy and celebrate life in the process.",
+        "content_warnings" : "Self harm, death, grief, suicidal thoughts, and car accident",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Red at the Bone", 
+        "author" : "Jacqueline Woodson",
+        "description" : "An extraordinary novel about the influence of history on a contemporary African-American family, from the New York Times-bestselling and National Book Award-winning author of Another Brooklyn and Brown Girl Dreaming.",
+        "content_warnings" : "Death, racism, death of parent, sexual content, grief, and cancer",
+        "tags" : ["mood.tearjerker", "mood.reflective", "mood.heavy", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Disappearing Earth", 
+        "author" : "Julia Phillips", 
+        "description" : "Disappearing Earth is a multifaceted story of the intimate lives of women – their vulnerabilities and perils, their desires and dreams. It speaks to the complex yet enduring bonds of community as it offers startlingly vivid portraits of people reaching out to one another and, sometimes, reaching back to save each other. Spellbinding, moving – evoking a fascinating region on the other side of the world – this suspenseful and haunting story announces the debut of a profoundly gifted writer.",
+        "content_warnings" : "Kidnapping, racism, death, emotional abuse, panic attacks/disorders, and homophobia",
+        "tags" : ["mood.reflective", "mood.heavy", "mood.slowburn", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Interpreter of Maladies", 
+        "author" : "Jhumpa Lahiri", 
+        "description" : "Navigating between the Indian traditions they've inherited and the baffling new world, the characters in Jhumpa Lahiri's elegant, touching stories seek love beyond the barriers of culture and generations. ",
+        "content_warnings" : "Miscarriage , infidelity, child death, medical content, death of a parent",
+        "tags" : ["mood.heavy", "mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Mercies", 
+        "author" : "Kiran Millwood Hargrave", 
+        "description" : "After a storm has killed off all the island's men, two women in a 1600s Norwegian coastal village struggle to survive against both natural forces and the men who have been sent to rid the community of alleged witchcraft. Inspired by the real events of the Vardø storm and the 1620 witch trials, The Mercies is a feminist story of love, evil, and obsession, set at the edge of civilization",
+        "content_warnings" : "Death, religious bigotry, misogyny, rape, miscarriage, and domestic abuse",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Vanishing Half", 
+        "author" : "Brit Bennett",
+        "description" : "Weaving together multiple strands and generations of this family, from the Deep South to California, from the 1950s to the 1990s, Brit Bennett produces a story that is at once a riveting, emotional family story and a brilliant exploration of the American history of passing.",
+        "content_warnings" : "Racism, racial slurs, domestic abuse, death of parent, dementia, and sexual assault",
+        "tags" : ["mood.reflective", "mood.heavy", "setting.historical", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Their Eyes Were Watching God", 
+        "author" : "Zora Neale Hurston", 
+        "description" : "A true literary wonder, Hurston's masterwork remains as relevant and affecting today as when it was first published -- perhaps the most widely read and highly regarded novel in the entire canon of African American literature.",
+        "content_warnings" : "Domestic abuse, racial slurs, racism, death, and gun violence",
+        "tags" : ["mood.reflective", "mood.heavy", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The Overstory", 
+        "author" : "Richard Powers", 
+        "description" : "The Overstory, winner of the 2019 Pulitzer Prize in Fiction, is a sweeping, impassioned work of activism and resistance that is also a stunning evocation of―and paean to―the natural world. From the roots to the crown and back to the seeds, Richard Powers’s twelfth novel unfolds in concentric rings of interlocking fables that range from antebellum New York to the late twentieth-century Timber Wars of the Pacific Northwest and beyond. There is a world alongside ours―vast, slow, interconnected, resourceful, magnificently inventive, and almost invisible to us. This is the story of a handful of people who learn how to see that world and who are drawn up into its unfolding catastrophe.",
+        "content_warnings" : "Death, suicide, police brutality, violence",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Song of Solomon", 
+        "author" : "Toni Morrison", 
+        "description" : "Milkman Dead was born shortly after a neighborhood eccentric hurled himself off a rooftop in a vain attempt at flight. For the rest of his life he, too, will be trying to fly. With this brilliantly imagined novel, Toni Morrison transfigures the coming-of-age story as audaciously as Saul Bellow or Gabriel García Márquez. As she follows Milkman from his rustbelt city to the place of his family’s origins, Morrison introduces an entire cast of strivers and seeresses, liars and assassins, the inhabitants of a fully realized black world.",
+        "content_warnings" : "Incest, racism, racial slurs, violence",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Death of Vivek Oji", 
+        "author" : "Akwaeke Emezi",
+        "description" : "Propulsively readable, teeming with unforgettable characters, The Death of Vivek Oji is a novel of family and friendship that challenges expectations--a dramatic story of loss and transcendence that will move every reader.",
+        "content_warnings" : "Incest, transphobia, death, sexual content",
+        "tags" : ["mood.reflective", "mood.heavy", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Yolk", 
+        "author" : "Mary H.K. Choi", 
+        "description" : "From New York Times bestselling author Mary H.K. Choi comes a funny and emotional story about two estranged sisters and how far they’ll go to save one of their lives—even if it means swapping identities.",
+        "content_warnings" : "Eating disorder, cancer, and ssexual content",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Thursday Murder Club", 
+        "author" : "Richard Osman", 
+        "description" : "In a peaceful retirement village, four unlikely friends meet up once a week to investigate unsolved killings. But when a local property developer shows up dead, 'The Thursday Murder Club' find themselves in the middle of their first live case.",
+        "content_warnings" : "Suicide, murder, and death",
+        "tags" : ["mood.funny", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Mexican Gothic", 
+        "author" : "Silvia Moreno-Garcia",
+        "description" : "An isolated mansion. A chillingly charismatic aristocrat. And a brave socialite drawn to expose their treacherous secrets. From the author of Gods of Jade and Shadow comes 'a terrifying twist on classic gothic horror' (Kirkus Reviews) set in glamorous 1950s Mexico.",
+        "content_warnings" : "Violence, body horror, sexual assault, and sexism",
+        "tags" : ["mood.heavy", "mood.actionpacked", "setting.historical", "mood.spooky", "hype.bestseller"]
+    },
+    {
+        "title" : "Kindred", 
+        "author" : "Octavia E. Butler", 
+        "description" : "Octavia E. Butler's ground-breaking masterpiece is the extraordinary story of two people bound by blood, separated by so much more than time.",
+        "content_warnings" : "Slavery, racism, racial slurs, rape, sexual assault, and suicide",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The Prophets", 
+        "author" : "Robert Jones Jr.",
+        "description" : "A singular and stunning debut novel about the forbidden union between two enslaved young men on a Deep South plantation, the refuge they find in each other, and a betrayal that threatens their existence.",
+        "content_warnings" : "Slavery, racism, and rape",
+        "tags" : ["mood.heavy", "mood.slowburn", "mood.tearjerker", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Felix Ever After", 
+        "author" : "Kacen Callender",
+        "description" : "From Stonewall and Lambda Award–winning author Kacen Callender comes a revelatory YA novel about a transgender teen grappling with identity and self-discovery while falling in love for the first time.",
+        "content_warnings" : "Transphobia, deadnaming, and bullying",
+        "tags" : ["mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Afterparties", 
+        "author" : "Anthony Veasna So",
+        "description" : "Seamlessly transitioning between the absurd and the tenderhearted, balancing acerbic humor with sharp emotional depth, Afterparties offers an expansive portrait of the lives of Cambodian-Americans. As the children of refugees carve out radical new paths for themselves in California, they shoulder the inherited weight of the Khmer Rouge genocide and grapple with the complexities of race, sexuality, friendship, and family.",
+        "content_warnings" : "Sexual content, genocide, domestic abuse, death, mass/school shootings, gun violence",
+        "tags" : ["mood.heavy", "mood.reflective", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "On Earth We're Briefly Gorgeous", 
+        "author" : "Ocean Vuong",
+        "description" : "On Earth We're Briefly Gorgeous is a letter from a son to a mother who cannot read. Written when the speaker, Little Dog, is in his late twenties, the letter unearths a family's history that began before he was born -- a history whose epicenter is rooted in Vietnam -- and serves as a doorway into parts of his life his mother has never known, all of it leading to an unforgettable revelation. At once a witness to the fraught yet undeniable love between a single mother and her son, it is also a brutally honest exploration of race, class, and masculinity. Asking questions central to our American moment, immersed as we are in addiction, violence, and trauma, but undergirded by compassion and tenderness, On Earth We're Briefly Gorgeous is as much about the power of telling one's own story as it is about the obliterating silence of not being heard.",
+        "content_warnings" : "Drug abuse, sexual content, addiction, homophobia, domestic abuse, and death",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "An American Marriage", 
+        "author" : "Tayari Jones",
+        "description" : "Newlyweds Celestial and Roy are the embodiment of both the American Dream and the New South. He is a young executive, and she is an artist on the brink of an exciting career. But as they settle into the routine of their life together, they are ripped apart by circumstances neither could have imagined. In this deft exploration of love, loyalty, race, justice, and both Black masculinity and Black womanhood in 21st century America, Jones achieves that most-elusive of all literary goals: the Great American Novel.",
+        "content_warnings" : "Racism, violence, infidelity, rape, abortion, and cancer",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "All the Light We Cannot See", 
+        "author" : "Anthony Doerr",
+        "description" : "From the highly acclaimed, multiple award-winning Anthony Doerr, the beautiful, stunningly ambitious instant New York Times bestseller about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. ",
+        "content_warnings" : "War, death, violence, rape, sexual assault, and antisemitism",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.slowburn", "mood.heavy", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Little Fires Everywhere", 
+        "author" : "Celeste Ng",
+        "description" : "From the bestselling author of Everything I Never Told You, a riveting novel that traces the intertwined fates of the picture-perfect Richardson family and the enigmatic mother and daughter who upend their lives. ",
+        "content_warnings" : "Abortion, infertility, miscarriage, racism, fire, pregnancy",
+        "tags" : ["mood.reflective", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Arrow of God", 
+        "author" : "Chinua Achebe",
+        "description" : "Set in the Igbo heartland of eastern Nigeria, one of Africa's best-known writers describes the conflict between old and new in its most poignant aspect: the personal struggle between father and son.",
+        "content_warnings" : "Racism, religious bigotry, death, violence, addiction, and alcoholism",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Another Brooklyn", 
+        "author" : "Jacqueline Woodson",
+        "description" : "Running into a long-ago friend sets memories from the 1970s in motion for August, transporting her to a time and a place where friendship was everything—until it wasn’t. For August and her girls, sharing confidences as they ambled through neighborhood streets, Brooklyn was a place where they believed that they were beautiful, talented, brilliant—a part of a future that belonged to them. But beneath the hopeful veneer, there was another Brooklyn, a dangerous place where grown men reached for innocent girls in dark hallways, where ghosts haunted the night, where mothers disappeared. A world where madness was just a sunset away and fathers found hope in religion.",
+        "content_warnings" : "Suicide, death of parent, sexual assault, sexual content, adult/minor relationship, and racism",
+        "tags" : ["mood.reflective", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Real Life", 
+        "author" : "Brandon Taylor",
+        "description" : "A novel of rare emotional power that excavates the social intricacies of a late-summer weekend--and a lifetime of buried pain. Almost everything about Wallace, an introverted African-American transplant from Alabama, is at odds with the lakeside Midwestern university town where he is working toward a biochem degree. For reasons of self-preservation, Wallace has enforced a wary distance even within his own circle of friends--some dating each other, some dating women, some feigning straightness. But a series of confrontations with colleagues, and an unexpected encounter with a young straight man, conspire to fracture his defenses, while revealing hidden currents of resentment and desire that threaten the equilibrium of their community.",
+        "content_warnings" : "Rape, racism, sexual assault, homophobia, death of parent, and eating disorder",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "mood.slowburn", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Klara and the Sun", 
+        "author" : "Kazuo Ishiguro",
+        "description" : "From the best-selling author of Never Let Me Go and The Remains of the Day, a stunning new novel—his first since winning the Nobel Prize in Literature—about the wondrous, mysterious nature of the human heart. From her place in the store, Klara, an Artificial Friend with outstanding observational qualities, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her, but when the possibility emerges that her circumstances may change forever, Klara is warned not to invest too much in the promises of humans. In Klara and the Sun, Kazuo Ishiguro looks at our rapidly changing modern world through the eyes of an unforgettable narrator to explore a fundamental question: what does it mean to love?",
+        "content_warnings" : "Chronic illness, terminal illness, and child death",
+        "tags" : ["mood.reflective", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Office of Historical Corrections", 
+        "author" : "Danielle Evans",
+        "description" : "Danielle Evans is widely acclaimed for her blisteringly smart voice and x-ray insights into complex human relationships. With The Office of Historical Corrections, Evans zooms in on particular moments and relationships in her characters' lives in a way that allows them to speak to larger issues of race, culture, and history. She introduces us to Black and multiracial characters who are experiencing the universal confusions of lust and love, and getting walloped by grief—all while exploring how history haunts us, personally and collectively. Ultimately, she provokes us to think about the truths of American history—about who gets to tell them, and the cost of setting the record straight.",
+        "content_warnings" : "Racism, racial slurs, hate crimes, gun violence, death, and cancer",
+        "tags" : ["mood.heavy", "mood.reflective", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Secret Lives of Church Ladies", 
+        "author" : "Deesha Philyaw",
+        "description" : "The Secret Lives of Church Ladies explores the raw and tender places where Black women and girls dare to follow their desires and pursue a momentary reprieve from being good. The nine stories in this collection feature four generations of characters grappling with who they want to be in the world, caught as they are between the church's double standards and their own needs and passions. ",
+        "content_warnings" : "Sexual content, infidelity, homophobia, adult/minor relationship, child abuse, and death",
+        "tags" : ["mood.reflective", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Pachinko", 
+        "author" : "Min Jin Lee",
+        "description" : "Pachinko follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan. So begins a sweeping saga of an exceptional family in exile from its homeland and caught in the indifferent arc of history. Through desperate struggles and hard-won triumphs, its members are bound together by deep roots as they face enduring questions of faith, family, and identity.",
+        "content_warnings" : "Racism, adult/minor relationship, death, suicide, and sexual content",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "No-No Boy", 
+        "author" : "John  Okada",
+        "description" : "'No-No Boy has the honor of being the very first Japanese American novel,' writes novelist Ruth Ozeki in her new foreword to John Okada’s classic of Asian American literature. First published in 1956, No-No Boy was virtually ignored by a public eager to put World War II and the Japanese internment behind them. It was not until the mid-1970s that a new generation of Japanese American writers and scholars recognized the novel’s importance and popularized it as one of literature’s most powerful testaments to the Asian American experience.",
+        "content_warnings" : "Racial slurs, racism, death of parent, suicide, car accident, and hate crimes",
+        "tags" : ["mood.reflective", "mood.heavy", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Mothers", 
+        "author" : "Brit Bennett",
+        "description" : "Set within a contemporary black community in Southern California, Brit Bennett's mesmerizing first novel is an emotionally perceptive story about community, love, and ambition. It begins with a secret.",
+        "content_warnings" : "Abortion, suicide, death of a parent, sexual assault, infertility, and infidelity",
+        "tags" : ["mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Girl with the Louding Voice", 
+        "author" : "Abi Daré",
+        "description" : "A powerful, emotional debut novel told in the unforgettable voice of a young Nigerian woman who is trapped in a life of servitude but determined to fight for her dreams and choose her own future.",
+        "content_warnings" : "Rape, child abuse, physical abuse, death of parent, domestic abuse, and trafficking",
+        "tags" : ["mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Black Buck", 
+        "author" : "Mateo Askaripour",
+        "description" : "For fans of Sorry to Bother You and The Wolf of Wall Street--a crackling, satirical debut novel about a young man given a shot at stardom as the lone black salesman at a mysterious, cult-like, and wildly successful startup where nothing is as it seems.",
+        "content_warnings" : "Racial slurs, racism, death of parent",
+        "tags" : ["mood.heavy", "mood.funny", "mood.actionpacked", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "City of Girls", 
+        "author" : "Elizabeth Gilbert",
+        "description" : "From the # 1 New York Times bestselling author of Eat Pray Love and The Signature of All Things, a delicious novel of glamour, sex, and adventure, about a young woman discovering that you don't have to be a good girl to be a good person. Beloved author Elizabeth Gilbert returns to fiction with a unique love story set in the New York City theater world during the 1940s. Told from the perspective of an older woman as she looks back on her youth with both pleasure and regret (but mostly pleasure), City of Girls explores themes of female sexuality and promiscuity, as well as the idiosyncrasies of true love.",
+        "content_warnings" : "Sexual content, alcohol, death, infidelity, war",
+        "tags" : ["mood.reflective", "mood.funny", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Eleanor Oliphant Is Completely Fine", 
+        "author" : "Gail Honeyman",
+        "description" : "Meet Eleanor Oliphant: She struggles with appropriate social skills and tends to say exactly what she's thinking. Nothing is missing in her carefully timetabled life of avoiding social interactions, where weekends are punctuated by frozen pizza, vodka, and phone chats with Mummy. But everything changes when Eleanor meets Raymond, the bumbling and deeply unhygienic IT guy from her office. When she and Raymond together save Sammy, an elderly gentleman who has fallen on the sidewalk, the three become the kinds of friends who rescue one another from the lives of isolation they have each been living. And it is Raymond's big heart that will ultimately help Eleanor find the way to repair her own profoundly damaged one.",
+        "content_warnings" : "Child abuse, alcoholism, emotional abuse, child death, suicidal thoughts, and mental health",
+        "tags" : ["mood.reflective", "mood.funny", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "We Ride Upon Sticks", 
+        "author" : "Quan Barry",
+        "description" : "Acclaimed novelist Quan Barry delivers a tour de female force in this delightful novel. Set in the coastal town of Danvers, Massachusetts, where the accusations began that led to the 1692 witch trials, We Ride Upon Sticks follows the 1989 Danvers High School Falcons field hockey team, who will do anything to make it to the state finals--even if it means tapping into some devilishly dark powers. In chapters dense with 1980s iconography--from Heathers to big hair--Barry expertly weaves together the individual and collective progress of this enchanted team as they storm their way through an unforgettable season.",
+        "content_warnings" : "Body horror, and sexual content",
+        "tags" : ["mood.spooky", "mood.funny", "mood.actionpacked", "setting.historical", "hype.hiddengem"]
     }
 ]

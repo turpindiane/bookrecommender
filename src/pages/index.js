@@ -6,10 +6,10 @@ import { Link } from "gatsby";
 
 const none = "none";
 var selectedMood = none;
-var selectedGenre = none;
+var selectedSetting = none;
 var selectedHype = none;
 const mood = "moodButtons";
-const genre = "genreButtons";
+const setting = "settingButtons";
 const hype = "hypeButtons";
 const bookData = require("/json/books.json");
 var recommendation;
@@ -70,50 +70,34 @@ const IndexPage = () => {
             onClick={buttonPressed}
             className={Styles.button}
           />
+          <span> </span>
+          <Button
+            name="moodButtons"
+            value="spooky 👻"
+            id="mood.spooky"
+            onClick={buttonPressed}
+            className={Styles.button}
+          />
         </div>
         <br />
         <div className={Styles.quizQuestion}>
           {" "}
-          <br /> Pick your genre:{" "}
+          <br /> Pick your setting:{" "}
         </div>
         <br />
         <div>
           <Button
-            name="genreButtons"
+            name="settingButtons"
             value="contemporary 📱"
-            id="genre.contemporary"
+            id="setting.contemporary"
             onClick={buttonPressed}
             className={Styles.button}
           />
           <span> </span>
           <Button
-            name="genreButtons"
+            name="settingButtons"
             value="historical 📜"
-            id="genre.historical"
-            onClick={buttonPressed}
-            className={Styles.button}
-          />
-          <span> </span>
-          <Button
-            name="genreButtons"
-            value="romance 🌹"
-            id="genre.romance"
-            onClick={buttonPressed}
-            className={Styles.button}
-          />
-          <span> </span>
-          <Button
-            name="genreButtons"
-            value="mystery 🔍"
-            id="genre.mystery"
-            onClick={buttonPressed}
-            className={Styles.button}
-          />
-          <span> </span>
-          <Button
-            name="genreButtons"
-            value="short stories 📝"
-            id="genre.shortstories"
+            id="setting.historical"
             onClick={buttonPressed}
             className={Styles.button}
           />
@@ -152,7 +136,7 @@ const IndexPage = () => {
         <br />
         <div id="bookTitle" className={Styles.bookTitle}></div>
         <br />
-        <div id="bookDescription"></div>
+        <div id="bookDescription" className={Styles.bookDescription}></div>
         <div id="contentWarnings" className={Styles.contentWarnings}>
           <br />{" "}
           <i>
@@ -196,16 +180,16 @@ function toggleMoods(e) {
   }
 }
 
-function toggleGenres(e) {
-  if (selectedGenre === e.target.id) {
+function toggleSettings(e) {
+  if (selectedSetting === e.target.id) {
     e.target.className = Styles.button;
-    selectedGenre = none;
+    selectedSetting = none;
   } else {
-    if (selectedGenre !== none) {
-      document.getElementById(selectedGenre).className = Styles.button;
+    if (selectedSetting !== none) {
+      document.getElementById(selectedSetting).className = Styles.button;
     }
     e.target.className = Styles.buttonSelected;
-    selectedGenre = e.target.id;
+    selectedSetting = e.target.id;
   }
 }
 
@@ -226,8 +210,8 @@ function toggleHype(e) {
 function buttonPressed(e) {
   if (e.target.name === mood) {
     toggleMoods(e);
-  } else if (e.target.name === genre) {
-    toggleGenres(e);
+  } else if (e.target.name === setting) {
+    toggleSettings(e);
   } else if (e.target.name === hype) {
     toggleHype(e);
   }
@@ -241,7 +225,7 @@ function buttonPressed(e) {
 function selectionsComplete() {
   if (
     selectedMood !== none &&
-    selectedGenre !== none &&
+    selectedSetting !== none &&
     selectedHype !== none
   ) {
     return true;
@@ -250,14 +234,13 @@ function selectionsComplete() {
 }
 
 function generateRecommendation() {
-  var selectedTags = [selectedGenre, selectedMood, selectedHype];
+  var selectedTags = [selectedSetting, selectedMood, selectedHype];
 
   var filteredBooks = bookData.filter((book) =>
     selectedTags.every((t) => book.tags.includes(t))
   );
 
   if (filteredBooks.length === 0) {
-    displayRecNotFound();
     return;
   }
 
@@ -298,10 +281,4 @@ function toggleCWs() {
 function hideCWs() {
   document.getElementById("cwBody").style.display = "none";
   document.getElementById("cwButton").innerHTML = "view";
-}
-
-function displayRecNotFound() {
-  document.getElementById("recommendationHeader").innerHTML =
-    "<br/>I'm sorry. A recommendation can not be generated.";
-  document.getElementById("recommendationHeader").display = "block";
 }

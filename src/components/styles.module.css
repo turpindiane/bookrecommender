@@ -49,6 +49,9 @@
 .book-title{
     color: rgb(220, 85, 85);
 }
+.book-description{
+    font-size:calc(20px + 1vw);
+}
 .nav-links {
     display: flex;
     list-style: none;
@@ -65,7 +68,7 @@
     max-height: 50px
 }
 .content-warnings{
-    font-size:calc(20px + 1vw);
+    font-size:calc(12px + 1vw);
     color:#4d4d4d;
 }
 .cw-button{
