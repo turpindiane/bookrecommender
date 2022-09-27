@@ -167,7 +167,7 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Book Buddy</title>;
+export const Head = () => <title>Book Recommender</title>;
 
 /*
   The toggle functions: 

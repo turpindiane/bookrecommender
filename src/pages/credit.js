@@ -84,4 +84,4 @@ const CreditPage = () => {
 
 export default CreditPage;
 
-export const Head = () => <title>Credit Page</title>;
+export const Head = () => <title>Credit</title>;
