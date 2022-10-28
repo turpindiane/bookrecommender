@@ -138,7 +138,7 @@
     {
         "title" : "In the Time of the Butterflies", 
         "author" : "Julia Alvarez", 
-        "description" : "It is November 25, 1960, and three beautiful sisters have been found near their wrecked Jeep at the bottom of a 150-foot cliff on the north coast of the Dominican Republic. The official state newspaper reports their deaths as accidental. It does not mention that a fourth sister lives. Nor does it explain that the sisters were among the leading opponents of Gen. Rafael Leónidas Trujillo’s dictatorship. It doesn’t have to. Everybody knows of Las Mariposas--the Butterflies. In this extraordinary novel, the voices of all four sisters--Minerva, Patria, María Teresa, and the survivor, Dedé--speak across the decades to tell their own stories, from secret crushes to gunrunning, and to describe the everyday horrors of life under Trujillo’s rule. Through the art and magic of Julia Alvarez’s imagination, the martyred Butterflies live again in this novel of courage and love, and the human costs of political oppression.",
+        "description" : "Set during the waning days of the Trujillo dictatorship in the Dominican Republic in 1960, this extraordinary novel tells the story the Mirabal sisters, three young wives and mothers who are assassinated after visiting their jailed husbands. <i>In the Time of the Butterflies</i> is an American Library Association Notable Book and a 1995 National Book Critics Circle Award nominee.",
         "content_warnings" : "Violence, murder, death, miscarriage, and adult/minor relationship",
         "link": "https://app.thestorygraph.com/books/427abb76-c7d1-4c11-9fcf-e70f8b22b789",
         "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "hype.bestseller"]
@@ -944,11 +944,67 @@
         "tags" : ["mood.actionpacked", "mood.reflective", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
     },
     {
-        "title" : "Writers & Lovers", 
-        "author" : "Lily King",
-        "description" : "<i>Writers & Lover</i> follows Casey—a smart and achingly vulnerable protagonist—in the last days of a long youth, a time when every element of her life comes to a crisis. Written with King’s trademark humor, heart, and intelligence, <i>Writers & Lovers</i> is a transfixing novel that explores the terrifying and exhilarating leap between the end of one phase of life and the beginning of another.",
-        "content_warnings" : "Death of a parent, grief, panic attacks/disorders, pedophilia, sexual harassment, and cancer",
-        "link" : "https://app.thestorygraph.com/books/ff91ad3f-3f3b-48f5-bed9-a9943b940ecf",
-        "tags" : ["mood.reflective", "setting.contemporary", "hype.bestseller"]
+        "title" : "The Song Poet: A Memoir of My Father", 
+        "author" : "Kao Kalia Yang",
+        "description" : "Following her award-winning memoir <i>The Latehomecomer</i>, Kao Kalia Yang now retells the life of her father, Bee Yang, the song poet--a Hmong refugee in Minnesota, driven from the mountains of Laos by America's Secret War. Bee sings the life of his people through the war-torn jungle and a Thai refugee camp. The songs fall away in the cold, bitter world of a St. Paul housing project and on the factory floor, until, with the death of Bee's mother, they leave him for good. But before they do, Bee, with his poetry, has burnished a life of poverty for his children, polishing their grim reality so that they might shine.",
+        "content_warnings" : "Racism, violence, xenophobia, war, domestic abuse, and sexism",
+        "link" : "https://app.thestorygraph.com/books/f21b554c-6e48-479b-b807-0594cd646b19",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.slowburn", "mood.heavy", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Build Your House Around My Body", 
+        "author" : "Violet Kupersmith",
+        "description" : "<i>Build Your House Around My Body</i> takes us from colonial mansions to ramshackle zoos, from sweaty nightclubs to the jostling seats of motorbikes, from ex-pat flats to sizzling back-alley street carts. Spanning more than fifty years of Vietnamese history and barreling toward an unforgettable conclusion, this is a time-traveling, heart-pounding, border-crossing fever dream of a novel that will haunt you long after the last page.",
+        "content_warnings" : "Body horror, death, violence, sexual assault, rape, and animal cruelty",
+        "link" : "https://app.thestorygraph.com/books/fba38496-5004-4f08-b980-8aa1debfda18",
+        "tags" : ["mood.heavy", "mood.spooky", "setting.contemporary", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Postcolonial Love Poem", 
+        "author" : "Natalie Diaz",
+        "description" : "<i>Postcolonial Love Poem</i> is an anthem of desire against erasure. Natalie Diaz's brilliant second collection demands that every body carried in its pages--bodies of language, land, rivers, suffering brothers, enemies, and lovers--be touched and held as beloveds. Through these poems, the wounds inflicted by America onto an indigenous people are allowed to bloom pleasure and tenderness: 'Let me call my anxiety, <i>desire</i>, then. / Let me call it, <i>a garden</i>.' In this new lyrical landscape, the bodies of indigenous, Latinx, black, and brown women are simultaneously the body politic and the body ecstatic. In claiming this autonomy of desire, language is pushed to its dark edges, the astonishing dunefields and forests where pleasure and love are both grief and joy, violence and sensuality.",
+        "content_warnings" : "Racism, violence, blood, addiction, gun violence, and sexual content",
+        "link" : "https://app.thestorygraph.com/books/946ead9a-a69b-489a-a91c-d0facf79a261",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.slowburn", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Kintu", 
+        "author" : "Jennifer Nansubuga Makumbi",
+        "description" : "In 1750, Kintu Kidda unleashes a curse that will plague his family for generations. In this ambitious tale of a clan and of a nation, Makumbi weaves together the stories of Kintu’s descendants as they seek to break from the burden of their shared past and reconcile the inheritance of tradition and the modern world that is their future.",
+        "content_warnings" : "Incest, violence, child abuse, rape, sexual content, and suicide",
+        "link" : "https://app.thestorygraph.com/books/f0f327ae-03fe-48a9-bfdc-e97db8306c4c",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.slowburn", "setting.contemporary", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "You Made a Fool of Death with Your Beauty", 
+        "author" : "Akwaeke Emezi",
+        "description" : "<i>New York Times</i> bestselling author and National Book Award finalist Akwaeke Emezi (they/them) reimagines the love story in this fresh and seductive novel about a young woman seeking joy while healing from loss.",
+        "content_warnings" : "Grief, death, car accident, death of parent, blood, and sexual content",
+        "link" : "https://app.thestorygraph.com/books/7cefcec9-86a6-4788-9589-4d6b1c0ef813",
+        "tags" : ["mood.funny", "mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Home", 
+        "author" : "Toni Morrison",
+        "description" : "When Frank Money joined the army to escape his too-small world, he left behind his cherished and fragile little sister, Cee. After the war, he journeys to his native Georgia with a renewed sense of purpose in search of his sister, but it becomes clear that their troubles began well before their wartime separation. Together, they return to their rural hometown of Lotus, where buried secrets are unearthed and where Frank learns at last what it means to be a man, what it takes to heal, and—above all—what it means to come home.",
+        "content_warnings" : "War, racism, violence, alcoholism, sexual violence, and medical trauma",
+        "link" : "https://app.thestorygraph.com/books/0f4e6174-4a03-4752-b5b3-742919d7e36c",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Our Missing Hearts", 
+        "author" : "Celeste Ng",
+        "description" : "From the number one bestselling author of <i>Little Fires Everywhere</i>, a deeply suspenseful and heartrending novel about the unbreakable love between a mother and child in a society consumed by fear",
+        "content_warnings" : "Racism, xenophobia, hate crime, police brutality, death, and sexual assault",
+        "link" : "https://app.thestorygraph.com/books/a295ce7b-105b-467b-a067-ea4352f2922d",
+        "tags" : ["mood.tearjerker", "mood.heavy", "mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Moon of the Crusted Snow", 
+        "author" : "Waubgeshig Rice",
+        "description" : "A daring post-apocalyptic thriller from a powerful rising literary voice. Blending action and allegory, <i>Moon of the Crusted Snow</i> upends our expectations. Out of catastrophe comes resilience. And as one society collapses, another is reborn.",
+        "content_warnings" : "Death, gun violence, violence, cannibalism, alcoholism, and suicide",
+        "link" : "https://app.thestorygraph.com/books/3291f596-34d0-453f-be3c-e6cdfc391931",
+        "tags" : ["mood.heavy", "mood.spooky", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
     }
 ]
