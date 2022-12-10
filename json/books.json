@@ -1006,5 +1006,53 @@
         "content_warnings" : "Death, gun violence, violence, cannibalism, alcoholism, and suicide",
         "link" : "https://app.thestorygraph.com/books/3291f596-34d0-453f-be3c-e6cdfc391931",
         "tags" : ["mood.heavy", "mood.spooky", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Cleopatra and Frankenstein", 
+        "author" : "Coco Mellors",
+        "description" : "For readers of <i>Modern Lovers</i> and <i>Conversations with Friends</i>, an addictive, humorous, and poignant debut novel about the shock waves caused by one couple's impulsive marriage.",
+        "content_warnings" : "Suicide attempt, alcoholism, drug abuse, death of a parent, animal death, and self harm",
+        "link" : "https://app.thestorygraph.com/books/85dc7fab-ac08-46b9-a576-996a864ac0b5",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Sirens & Muses", 
+        "author" : "Antonia Angress",
+        "description" : "Four artists are drawn into a web of rivalry and desire at an elite art school and on the streets of New York in this magnificent debut for fans of <i>Writers & Lovers</i> and <i>The Goldfinch</i>.",
+        "content_warnings" : "Sexual assault, drug use, toxic relationship, domestic abuse, suicide, and death of parent",
+        "link" : "https://app.thestorygraph.com/books/c890efde-4e97-4596-9106-e32e0c897367",
+        "tags" : ["mood.heavy", "mood.tearjerker", "mood.reflective", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Count of Monte Cristo", 
+        "author" : "Alexandre Dumas with Robin Buss (Translator)",
+        "description" : "Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas' epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.",
+        "content_warnings" : "Confinement, suicidal thoughts, suicide, death, and death of a child",
+        "link" : "https://app.thestorygraph.com/books/abd1c172-fbba-469d-a99c-7202a44a8abe",
+        "tags" : ["mood.slowburn", "mood.heavy", "mood.reflective", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The Hate U Give", 
+        "author" : "Angie Thomas",
+        "description" : "Inspired by the Black Lives Matter movement, this is a powerful and gripping YA novel about one girl's struggle for justice.",
+        "content_warnings" : "Racism, police brutality, gun violence, domestic abuse, and drug use",
+        "link" : "https://app.thestorygraph.com/books/f17920fc-2079-4199-bb70-67aed3571715",
+        "tags" : ["mood.actionpacked", "mood.reflective", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Sing, Unburied, Sing", 
+        "author" : "Jesmyn Ward",
+        "description" : "<i>New York Times</i> bestseller, this majestic, stirring, and widely praised novel from two-time National Book Award winner Jesmyn Ward, the story of a family on a journey through rural Mississippi, is a "tour de force" (O, The Oprah Magazine) and a timeless work of fiction that is destined to become a classic.",
+        "content_warnings" : "Racism, drug abuse, death, addiction, and rape",
+        "link" : "https://app.thestorygraph.com/books/a32d6fff-5e05-43de-8a37-384ae3a6b984",
+        "tags" : ["mood.slowburn", "mood.heavy", "mood.reflective", "mood.tearjerker", "mood.spooky", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Seed Keeper", 
+        "author" : "Diane Wilson",
+        "description" : "A haunting novel spanning several generations, <i>The Seed Keeper</i> follows a Dakota family's struggle to preserve their way of life, and their sacrifices to protect what matters most.",
+        "content_warnings" : "Racism, grief, colonisation, suicide, death of a parent, and addiction",
+        "link" : "https://app.thestorygraph.com/books/a7f316d1-5141-4156-b084-97d84847ea45",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.hiddengem"]
     }
 ]
