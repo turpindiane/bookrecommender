@@ -355,7 +355,7 @@
         "title" : "Yolk", 
         "author" : "Mary H.K. Choi", 
         "description" : "From New York Times bestselling author Mary H.K. Choi comes a funny and emotional story about two estranged sisters and how far they’ll go to save one of their lives—even if it means swapping identities.",
-        "content_warnings" : "Eating disorder, cancer, and ssexual content",
+        "content_warnings" : "Eating disorder, cancer, and sexual content",
         "link": "https://app.thestorygraph.com/books/d93aa02f-2d95-4a2c-87b0-6e624b932bab",
         "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.hiddengem"]
     },
@@ -1054,5 +1054,61 @@
         "content_warnings" : "Racism, grief, colonisation, suicide, death of a parent, and addiction",
         "link" : "https://app.thestorygraph.com/books/a7f316d1-5141-4156-b084-97d84847ea45",
         "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "The Marriage Portrait", 
+        "author" : "Maggie O'Farrell",
+        "description" : "The author of award-winning <i>Hamnet</i> brings the world of Renaissance Italy to jewel-bright life in this unforgettable fictional portrait of the captivating young duchess Lucrezia de’ Medici as she makes her way in a troubled court.",
+        "content_warnings" : "Murder, rape, violence, and animal cruelty",
+        "link" : "https://app.thestorygraph.com/books/424d632c-e756-4b51-9d64-fcb3cfe9d187",
+        "tags" : ["mood.actionpacked", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Maus I: A Survivor's Tale: My Father Bleeds History", 
+        "author" : "Art Spiegelman",
+        "description" : "The first installment of the Pulitzer Prize-winning graphic novel acclaimed as \"the most affecting and successful narrative ever done about the Holocaust\" (Wall Street Journal) and \"the first masterpiece in comic book history\" (The New Yorker).",
+        "content_warnings" : "Antisemitism, genocide, war, death of a child, and suicide",
+        "link" : "https://app.thestorygraph.com/books/43dcae32-c3ba-4a69-a4b0-5e6c5dbe9d71",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "The Great Believers", 
+        "author" : "Rebecca Makkai",
+        "description" : "A dazzling new novel of friendship and redemption in the face of tragedy and loss set in 1980s Chicago and contemporary Paris.",
+        "content_warnings" : "Terminal illness, homophobia, death, and infidelity",
+        "link" : "https://app.thestorygraph.com/books/cd9c9569-709f-47d2-a387-f052847ed4cd",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution", 
+        "author" : "R.F. Kuang",
+        "description" : "From award-winning author R.F. Kuang comes Babel, a thematic response to <i>The Secret History</i> and a tonal retort to <i>Jonathan Strange & Mr. Norrell</i> that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.",
+        "content_warnings" : "Racism, colonisation, racial slurs, and war",
+        "link" : "https://app.thestorygraph.com/books/98dd3565-e7da-416e-9778-873c5840e16c",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Heartstopper: Volume One", 
+        "author" : "Alice Oseman",
+        "description" : "Boy meets boy. Boys become friends. Boys fall in love. A sweet and charming coming-of-age story that explores friendship, love, and coming out.",
+        "content_warnings" : "Homophobia, sexual assault, and bullying",
+        "link" : "https://app.thestorygraph.com/books/0dea6383-10e3-49ea-877a-c81a4d2582a0",
+        "tags" : ["mood.funny", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Tomorrow, and Tomorrow, and Tomorrow", 
+        "author" : "Gabrielle Zevin",
+        "description" : "Spanning thirty years, from Cambridge, Massachusetts, to Venice Beach, California, and lands in between and far beyond, Gabrielle Zevin’s <i>Tomorrow, and Tomorrow, and Tomorrow</i> is a dazzling and intricately imagined novel that examines the multifarious nature of identity, games as artform, technology and the human experience, disability, failure, the redemptive possibilities in play, and above all, our need to connect: to be loved and to love. Yes, it is a love story, but it is not one you have read before. ",
+        "content_warnings" : "Gun violence, death, suicide, and car accident",
+        "link" : "https://app.thestorygraph.com/books/d57e098f-82dc-41f1-94f3-8fcb02dfab1b",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Namesake", 
+        "author" : "Jhumpa Lahiri",
+        "description" : "NEW YORK TIMES BESTSELLER. Pulitzer Prize winner Jhumpa Lahiri brilliantly illuminates the immigrant experience and the tangled ties between generations. <i>Namesake</i> is a fine-tuned, intimate, and deeply felt novel of identity from \"a writer of uncommon elegance and poise.\"(The New York Times)",
+        "content_warnings" : "Death of a parent, infidelity, sexual content, racism, and adult/minor relationship",
+        "link" : "https://app.thestorygraph.com/books/dde78936-a147-471d-b3f8-cccf6510ba22",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.bestseller"]
     }
 ]
