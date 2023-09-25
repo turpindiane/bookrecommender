@@ -8,11 +8,11 @@ This site generates a personal recommendation of a book I've read and rated at l
 
 ## Building Blocks
 
-This site was created using the [gatsby-starter-default](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-defaulgatsby-starter-default) and is hosted on [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/).
+This site was created using the [gatsby-starter-default](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-defaulgatsby-starter-default) and is hosted on [Netlify](https://app.netlify.com/).
 
 ## Access
 
-The site can be accessed [here](https://bookrecommendermain.gtsb.io/).
+The site can be accessed [here](https://bookrecommender-diane.netlify.app/).
 
 ## Running locally
 
@@ -28,4 +28,4 @@ Run locally
 gatsby develop
 ```
 
-The site is now viewable at http://localhost:8000!
+The site is now viewable at http://localhost:8000
