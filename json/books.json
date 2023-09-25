@@ -1142,5 +1142,101 @@
         "content_warnings" : "Racism, police brutality, and death",
         "link" : "https://app.thestorygraph.com/books/8272c8e1-898e-4f8a-918a-016860f30b6a",
         "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Perma Red",
+        "author" : "Debra Magpie Earling",
+        "description" : "On the Flathead Indian Reservation, summer is ending, and Louise White Elk is determined to forge her own path. Raised by her Grandmother Magpie after the death of her mother, Louise and her younger sister have grown up into the harsh social and physical landscape of western Montana in the 1940s, where Native people endure boarding schools and life far from home. As she approaches adulthood, Louise hopes to create an independent life for herself and an improved future for her family—but three persistent men have other plans.",
+        "content_warnings" : "Domestic abuse, racism, death, and alcoholism",
+        "link" : "https://app.thestorygraph.com/books/e91f01f5-e572-4ad1-9e98-0b9bd16539fa",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Sabrina & Corina: Stories",
+        "author" : "Kali Fajardo-Anstine",
+        "description" : "NATIONAL BOOK AWARD FINALIST - Latinas of Indigenous descent living in the American West take center stage in this haunting debut story collection--a powerful meditation on friendship, mothers and daughters, and the deep-rooted truths of our homelands.",
+        "content_warnings" : "Domestic abuse, death, and alcoholism",
+        "link" : "https://app.thestorygraph.com/books/0b131f5e-d080-4b15-9f18-4e317d2d2b37",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.slowburn", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "The Days of Abandonment",
+        "author" : "Elena Ferrante with Ann Goldstein (Translator)",
+        "description" : "<i>The Days of Abandonment</i> is the gripping story of an Italian woman's experiences after being suddenly left by her husband after fifteen years of marriage.",
+        "content_warnings" : "Animal death and sexual content",
+        "link" : "https://app.thestorygraph.com/books/70b66cb9-607d-48b2-9f50-6428deab5b8d",
+        "tags" : ["mood.heavy", "mood.reflective", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Passing",
+        "author" : "Nella Larsen",
+        "description" : "Nella Larsen's 1929 novella follows friends Irene Redfield and Clare Kendry, two black women who pass as white. Their anxieties about passing culminate in tragedy, revealing the powerful repercussions of hiding one's identity. Nearly a century later, Larsen's exploration of race remains urgent and relevant as ever.",
+        "content_warnings" : "Racial slurs, racism, and death",
+        "link" : "https://app.thestorygraph.com/books/75ce7860-78bf-45f7-8c5e-3c5a7542a68a",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Daughter of Fortune",
+        "author" : "Isabel Allende",
+        "description" : "Orphaned at birth, Eliza Sommers is raised in the British colony of Valparaíso, Chile, by the well-intentioned Victorian spinster Miss Rose and her more rigid brother Jeremy. Just as she meets and falls in love with the wildly inappropriate Joaquín Andieta, a lowly clerk who works for Jeremy, gold is discovered in the hills of northern California. By 1849, Chileans of every stripe have fallen prey to feverish dreams of wealth. Joaquín takes off for San Francisco to seek his fortune, and Eliza, pregnant with his child, decides to follow him.",
+        "content_warnings" : "Miscarriage, racial slurs, racism, trafficking, and gun violence",
+        "link" : "https://app.thestorygraph.com/books/49bd3b19-c38d-4db5-8fc9-21ee2072ef4f",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "mood.actionpacked", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Agaat",
+        "author" : "Marlene van Niekerk with Michiel Heyns (Translator)",
+        "description" : "In 1940s apartheid South Africa, Milla de Wet discovers a child abandoned in the fields of her family farm. Ignoring the warnings of friends and family, Milla brings the girl, Agaat, into her home. But the kindness is fleeting, as Milla makes Agaat her maidservant and, later, a nanny for her son. At turns cruel and tender, this relationship between a wealthy white woman and her Black maidservant is constantly fraught and shaped by a rigid social order.",
+        "content_warnings" : "Emotional abuse, racism, and sexism",
+        "link" : "https://app.thestorygraph.com/books/f4ce9272-b3bf-45bc-b888-d5bcbc5dbeba",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.historical", "hype.hiddengem"]
+    },
+    {
+        "title" : "Emma",
+        "author" : "Jane Austen",
+        "description" : "Jane Austen's novel of youthful exuberance and gradual self-knowledge is a brilliant, sparkling comic masterpiece.",
+        "content_warnings" : "Classism",
+        "link" : "https://app.thestorygraph.com/books/db5bad36-6dc5-4404-a8f9-1cdbe388ec39",
+        "tags" : ["mood.reflective", "mood.funny", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Kim Jiyoung, Born 1982",
+        "author" : "Cho Nam-Joo with Jamie Chang (Translator)",
+        "description" : "One of the most notable novels of the year, hailed by both critics and K-pop stars alike, <i>Kim Jiyoung, Born 1982</i> follows one woman’s psychic deterioration in the face of rampant misogyny.",
+        "content_warnings" : "Sexism and sexual harassment",
+        "link" : "https://app.thestorygraph.com/books/89aafc51-1b2d-42c6-93de-3038e93820fe",
+        "tags" : ["mood.reflective", "mood.actionpacked", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "If an Egyptian Cannot Speak English",
+        "author" : "Noor Naga",
+        "description" : "A dark romance exposing the gaps in American identity politics, especially when exported overseas, <i>If an Egyptian Cannot Speak English</i> is at once ravishing and wry, scathing and tender.",
+        "content_warnings" : "Domestic abuse, addiction, and death",
+        "link" : "https://app.thestorygraph.com/books/2765cbc4-d3b8-4f96-ac35-09d9478cc499",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.actionpacked", "setting.contemporary", "hype.hiddengem"]
+    },
+    {
+        "title" : "Black Cake",
+        "author" : "Charmaine Wilkerson",
+        "description" : "In present-day California, Eleanor Bennett’s death leaves behind a puzzling inheritance for her two children, Byron and Benny: a black cake, made from a family recipe with a long history, and a voice recording. In her message, Eleanor shares a tumultuous story about a headstrong young swimmer who escapes her island home under suspicion of murder. The heartbreaking tale Eleanor unfolds, the secrets she still holds back, and the mystery of a long-lost child challenge everything the siblings thought they knew about their lineage and themselves.",
+        "content_warnings" : "Death of parent, racism, and abandonment",
+        "link" : "https://app.thestorygraph.com/books/f7c90e91-dc6b-40ba-84a1-beed3dc7bfda",
+        "tags" : ["mood.reflective", "mood.heavy", "setting.historical", "setting.contemporary", "hype.bestseller"]
+    },
+    {
+        "title" : "Mornings in Jenin",
+        "author" : "Susan Abulhawa",
+        "description" : "<i>Mornings in Jenin</i> is a multi-generational story about a Palestinian family. Forcibly removed from the olive-farming village of Ein Hod by the newly formed state of Israel in 1948, the Abulhejos are displaced to live in canvas tents in the Jenin refugee camp. We follow the Abulhejo family as they live through a half century of violent history. Amidst the loss and fear, hatred and pain, as their tents are replaced by more forebodingly permanent cinderblock huts, there is always the waiting, waiting to return to a lost home.",
+        "content_warnings" : "Death, genocide and violence",
+        "link" : "https://app.thestorygraph.com/books/a5739b2e-bc23-45ee-916a-0093c179fa53",
+        "tags" : ["mood.reflective", "mood.tearjerker", "mood.heavy", "setting.historical", "hype.bestseller"]
+    },
+    {
+        "title" : "Stay with Me",
+        "author" : "Ayọ̀bámi Adébáyọ̀",
+        "description" : "Yejide is hoping for a miracle, for a child. It is all her husband wants, all her mother-in-law wants, and she has tried everything - arduous pilgrimages, medical consultations, dances with prophets, appeals to God. But when her in-laws insist upon a new wife, it is too much for Yejide to bear. It will lead to jealousy, betrayal and despair.",
+        "content_warnings" : "Death of a child, infertility, and infidelity",
+        "link" : "https://app.thestorygraph.com/books/8beb73ed-faa9-4d0b-8c30-56dd869237e6",
+        "tags" : ["mood.heavy", "mood.reflective", "mood.tearjerker", "setting.contemporary", "hype.hiddengem"]
     }
 ]
